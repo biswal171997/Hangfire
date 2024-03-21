@@ -1,0 +1,323 @@
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\nlog.config
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.staticwebassets.runtime.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.exe
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.deps.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.runtimeconfig.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Dapper.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Database.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.AssemblyReference.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfoInputs.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfo.cs
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CoreCompileInputs.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cs
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.AdminConsole.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AdminConsole.Web.props
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdminConsole.Web.props
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdminConsole.Web.props
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\bundle\AdminConsole.Web.styles.css
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\projectbundle\AdminConsole.Web.bundle.scp.css
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CopyComplete
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\refint\AdminConsole.Web.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.genruntimeconfig.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\ref\AdminConsole.Web.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\nlog.config
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.staticwebassets.runtime.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.exe
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.deps.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.runtimeconfig.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Dapper.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Database.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.AssemblyReference.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfoInputs.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfo.cs
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CoreCompileInputs.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cs
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\bundle\AdminConsole.Web.styles.css
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\projectbundle\AdminConsole.Web.bundle.scp.css
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CopyComplete
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\refint\AdminConsole.Web.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.genruntimeconfig.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\ref\AdminConsole.Web.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\nlog.config
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\appsettings.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.staticwebassets.runtime.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.exe
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.deps.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.runtimeconfig.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Dapper.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Database.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.AssemblyReference.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfoInputs.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfo.cs
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CoreCompileInputs.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cs
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.AdminConsole.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AdminConsole.Web.props
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdminConsole.Web.props
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdminConsole.Web.props
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\bundle\AdminConsole.Web.styles.css
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\scopedcss\projectbundle\AdminConsole.Web.bundle.scp.css
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\refint\AdminConsole.Web.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.genruntimeconfig.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\ref\AdminConsole.Web.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Hangfire.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Hangfire.NetCore.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\Hangfire.SqlServer.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Web\obj\Debug\net6.0\AdminCon.5E988CEF.Up2Date
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\nlog.config
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\appsettings.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.staticwebassets.runtime.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.exe
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.deps.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.runtimeconfig.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Web.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Dapper.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Hangfire.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Hangfire.NetCore.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Hangfire.SqlServer.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\NLog.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\NLog.Database.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Repository.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Model.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Web\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.AssemblyReference.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfoInputs.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.AssemblyInfo.cs
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.csproj.CoreCompileInputs.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.RazorAssemblyInfo.cs
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.AdminConsole.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AdminConsole.Web.props
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdminConsole.Web.props
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdminConsole.Web.props
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\scopedcss\bundle\AdminConsole.Web.styles.css
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\scopedcss\projectbundle\AdminConsole.Web.bundle.scp.css
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminCon.5E988CEF.Up2Date
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\refint\AdminConsole.Web.dll
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\AdminConsole.Web.genruntimeconfig.cache
+D:\test\hangfire\Hangfire\AdminConsole.Web\obj\Debug\net6.0\ref\AdminConsole.Web.dll

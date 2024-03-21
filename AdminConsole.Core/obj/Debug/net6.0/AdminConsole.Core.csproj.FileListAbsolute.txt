@@ -1,0 +1,48 @@
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.deps.json
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.AssemblyReference.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfoInputs.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfo.cs
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.CoreCompileInputs.cache
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\refint\AdminConsole.Core.dll
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.pdb
+D:\FRAMEWORK PROJECT DEV\Code GEN\CGTESTING-Testing demo folder\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\ref\AdminConsole.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.deps.json
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.AssemblyReference.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfoInputs.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfo.cs
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.CoreCompileInputs.cache
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\refint\AdminConsole.Core.dll
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.pdb
+D:\Wizard Projects\OnlyAdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\ref\AdminConsole.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.deps.json
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.AssemblyReference.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfoInputs.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfo.cs
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.CoreCompileInputs.cache
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\refint\AdminConsole.Core.dll
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.pdb
+D:\HangFire work\AdminConsole\AdminConsole\AdminConsole.Core\obj\Debug\net6.0\ref\AdminConsole.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.deps.json
+D:\test\hangfire\Hangfire\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Core\bin\Debug\net6.0\AdminConsole.Core.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.AssemblyReference.cache
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfoInputs.cache
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.AssemblyInfo.cs
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.csproj.CoreCompileInputs.cache
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\refint\AdminConsole.Core.dll
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\AdminConsole.Core.pdb
+D:\test\hangfire\Hangfire\AdminConsole.Core\obj\Debug\net6.0\ref\AdminConsole.Core.dll

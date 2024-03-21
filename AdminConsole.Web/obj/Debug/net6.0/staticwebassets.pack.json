@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdminConsole.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminConsole.Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\UserImage\\User20231114102104926.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\User20231114102104926.jpg"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\UserImage\\User20231114102114672.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\User20231114102114672.jpg"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\UserImage\\User20231129044235004.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\User20231129044235004.jpg"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\UserImage\\User20231129044453430.png",
+      "PackagePath": "staticwebassets\\UserImage\\User20231129044453430.png"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\adminconsole\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\adminconsole\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\chartist.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\custom.css",
+      "PackagePath": "staticwebassets\\adminconsole\\custom.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\custom.js",
+      "PackagePath": "staticwebassets\\adminconsole\\custom.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\adminconsole\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\adminconsole\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\icons.css",
+      "PackagePath": "staticwebassets\\adminconsole\\icons.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\main.css",
+      "PackagePath": "staticwebassets\\adminconsole\\main.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\popper.min.js",
+      "PackagePath": "staticwebassets\\adminconsole\\popper.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\adminconsole\\slimscrollbar.min.css",
+      "PackagePath": "staticwebassets\\adminconsole\\slimscrollbar.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\js\\AdminConsole\\DesignationMaster.js",
+      "PackagePath": "staticwebassets\\js\\AdminConsole\\DesignationMaster.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\js\\AdminConsole\\HierarchyMaster.js",
+      "PackagePath": "staticwebassets\\js\\AdminConsole\\HierarchyMaster.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\js\\AdminConsole\\validator.js",
+      "PackagePath": "staticwebassets\\js\\AdminConsole\\validator.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\js\\Base.js",
+      "PackagePath": "staticwebassets\\js\\Base.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-10.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-10.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-13.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-13.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-14.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-14.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-21.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-21.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-22.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-22.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-23.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-23.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-11-26.log",
+      "PackagePath": "staticwebassets\\logs\\2023-11-26.log"
+    },
+    {
+      "Id": "D:\\test\\hangfire\\Hangfire\\AdminConsole.Web\\wwwroot\\logs\\2023-12-14.log",
+      "PackagePath": "staticwebassets\\logs\\2023-12-14.log"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdminConsole.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdminConsole.Web.props",
+      "PackagePath": "build\\AdminConsole.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminConsole.Web.props",
+      "PackagePath": "buildMultiTargeting\\AdminConsole.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdminConsole.Web.props",
+      "PackagePath": "buildTransitive\\AdminConsole.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

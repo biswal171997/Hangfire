@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminConsole.Web
+build_property.RootNamespace = AdminConsole.Web
+build_property.ProjectDir = D:\test\hangfire\Hangfire\AdminConsole.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\test\hangfire\Hangfire\AdminConsole.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/DesignationMaster/AddDesignationMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25NYXN0ZXJcQWRkRGVzaWduYXRpb25NYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/DesignationMaster/EditActiveDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25NYXN0ZXJcRWRpdEFjdGl2ZURlc2lnbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/DesignationMaster/ViewActiveDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25NYXN0ZXJcVmlld0FjdGl2ZURlc2lnbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/DesignationMaster/ViewInActiveDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25NYXN0ZXJcVmlld0luQWN0aXZlRGVzaWduYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/FunctionMaster/AddFunctionMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25NYXN0ZXJcQWRkRnVuY3Rpb25NYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/FunctionMaster/EditActiveFunction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25NYXN0ZXJcRWRpdEFjdGl2ZUZ1bmN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/FunctionMaster/ViewFunctionMasterActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25NYXN0ZXJcVmlld0Z1bmN0aW9uTWFzdGVyQWN0aXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/FunctionMaster/ViewFunctionMasterInActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25NYXN0ZXJcVmlld0Z1bmN0aW9uTWFzdGVySW5BY3RpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/GlobalLink/AddGlobalLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2xvYmFsTGlua1xBZGRHbG9iYWxMaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/GlobalLink/EditActiveGlobalLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2xvYmFsTGlua1xFZGl0QWN0aXZlR2xvYmFsTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/GlobalLink/ViewGlobalLinkActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2xvYmFsTGlua1xWaWV3R2xvYmFsTGlua0FjdGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/GlobalLink/ViewGlobalLinkInActive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2xvYmFsTGlua1xWaWV3R2xvYmFsTGlua0luQWN0aXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/HirerachyMaster/AddHirerarchy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlyZXJhY2h5TWFzdGVyXEFkZEhpcmVyYXJjaHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/HirerachyMaster/EditActiveHierarchy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlyZXJhY2h5TWFzdGVyXEVkaXRBY3RpdmVIaWVyYXJjaHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/HirerachyMaster/ViewActiveHirerarchy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlyZXJhY2h5TWFzdGVyXFZpZXdBY3RpdmVIaXJlcmFyY2h5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/HirerachyMaster/ViewInActiveHirerarchy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlyZXJhY2h5TWFzdGVyXFZpZXdJbkFjdGl2ZUhpcmVyYXJjaHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelDetailsMaster/AddLevelDetailsMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxEZXRhaWxzTWFzdGVyXEFkZExldmVsRGV0YWlsc01hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelDetailsMaster/EditActiveLevelDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxEZXRhaWxzTWFzdGVyXEVkaXRBY3RpdmVMZXZlbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelDetailsMaster/ViewActiveLevelDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxEZXRhaWxzTWFzdGVyXFZpZXdBY3RpdmVMZXZlbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelDetailsMaster/ViewInActiveLevelDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxEZXRhaWxzTWFzdGVyXFZpZXdJbkFjdGl2ZUxldmVsRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelMaster/AddLevelMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxNYXN0ZXJcQWRkTGV2ZWxNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelMaster/EditActiveLevel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxNYXN0ZXJcRWRpdEFjdGl2ZUxldmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelMaster/ViewActiveLevel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxNYXN0ZXJcVmlld0FjdGl2ZUxldmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/LevelMaster/ViewInActiveLevel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxNYXN0ZXJcVmlld0luQWN0aXZlTGV2ZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/ActivePrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcQWN0aXZlUHJpbWFyeUxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/AddPrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcQWRkUHJpbWFyeUxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/EditActivePrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcRWRpdEFjdGl2ZVByaW1hcnlMaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/InActivePrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcSW5BY3RpdmVQcmltYXJ5TGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/ViewActivePrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcVmlld0FjdGl2ZVByaW1hcnlMaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/PrimaryLink/ViewInActivePrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbWFyeUxpbmtcVmlld0luQWN0aXZlUHJpbWFyeUxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/ProjectLink/AddProjectLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdExpbmtcQWRkUHJvamVjdExpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/ProjectLink/EditActiveProjectLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdExpbmtcRWRpdEFjdGl2ZVByb2plY3RMaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/ProjectLink/ViewActiveProjectLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdExpbmtcVmlld0FjdGl2ZVByb2plY3RMaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/ProjectLink/ViewInActiveProjectLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdExpbmtcVmlld0luQWN0aXZlUHJvamVjdExpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/SetPermission/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGVybWlzc2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/SetPermission/RemoveUserPermission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGVybWlzc2lvblxSZW1vdmVVc2VyUGVybWlzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/SetPermission/SearchPrimaryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGVybWlzc2lvblxTZWFyY2hQcmltYXJ5TGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/SetPermission/SetPermission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGVybWlzc2lvblxTZXRQZXJtaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/SetPermission/SetPermissionUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGVybWlzc2lvblxTZXRQZXJtaXNzaW9uVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/User/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/User/ViewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/hangfire/Hangfire/AdminConsole.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9fjzov5rp8

@@ -1,0 +1,26 @@
+﻿@model CodeGen.Model.PrimaryLink.Primary
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+    ViewBag.Title = "InActivePrimaryLink";
+
+}
+
+
+
+<div>
+        <p>Please confirm you want to InActive  Primary Link: 
+           <b> @Model.PlinkName? </b> 
+        </p>
+    </div>
+
+   
+@using (Html.BeginForm()) { 
+    <p>
+        <input type="submit" value="InActive" /> |
+        @Html.ActionLink("Back to List", "ViewInActivePrimaryLink")
+    </p>
+ } 
+
+
+
